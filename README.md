@@ -137,7 +137,7 @@
     <!--left box for logo-->
     <div class="
     left">
-        <img src="o3-zone-gwalior-0tihyt6m5m.webp" >
+        <img src="o3-zone-gwalior.webp" >
         <div>OZONE FITNESS</div>
 
 
